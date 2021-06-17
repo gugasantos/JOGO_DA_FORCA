@@ -46,7 +46,7 @@ while True:
             a = 1
             continue
         elif s == 'N':
-            print("Foi bom jogar com você espero que volte noavamente ")
+            print("Foi bom jogar com você espero que volte novamente ")
             break
         else:
             print("Vai se fuder então, thau!")
